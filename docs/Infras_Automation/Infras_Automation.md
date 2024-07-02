@@ -40,7 +40,7 @@ From provisioning servers to application configuration and deployment, everythin
 4. **Use Community Modules**: Community modules are a great reference for learning. You can learn complex logic from community modules, but ensure you know what each block of code does.
 
 ### Resources:
-- [Udacity Cloud DevOps Engineer Nanodegree](link-to-udacity-course)
-- [Learn DevOps: Infrastructure Automation With Terraform](link-to-terraform-course)
-- [Ansible for the Absolute Beginner – Hands-On – DevOps](link-to-ansible-course)
+- [Udacity Cloud DevOps Engineer Nanodegree](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
+- [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/?couponCode=ST16MT70224)
+- [Ansible for the Absolute Beginner – Hands-On – DevOps](https://www.udemy.com/course/learn-ansible/?couponCode=ST16MT70224)
 
