@@ -13,7 +13,7 @@ Explore the resources available here to accelerate your journey into the world o
 
 ## Course Overview
 - **Learn to Use Generative AI Tools**
-- **Learn Linux**
+- **Learn Linux** [Link to Learn Linux Documentation](docs/learnlinux.md)
 - **Learn How Infrastructure Components Work**
 - **Learn Cloud Computing & Virtualization**
 - **Learn Infrastructure Automation**
