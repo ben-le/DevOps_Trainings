@@ -12,11 +12,11 @@ These platforms are best suited for microservices-based architecture.
 
 Here is an interesting Kubernetes usage trend by Datadog.
 
-![Kubernetes Usage Trends](link-to-kubernetes-usage-trends-image)
+![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/bd7b3e9a-2322-4a40-ad03-999f4505893c)
 
 The following image shows the five-year increasing search trends for Kubernetes.
 
-![Kubernetes User Trends](link-to-kubernetes-user-trends-image)
+![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/a2fe075b-058b-4273-9a09-59c63f422f40)
 
 Also, many engineers and even fresh college graduates are showing interest in learning Kubernetes. 2023 will see many engineers getting certified in Kubernetes. You can check out our CKA, CKAD, and CKS exam guides. You can pick the best Kubernetes certification based on the domain you want to work with.
 
