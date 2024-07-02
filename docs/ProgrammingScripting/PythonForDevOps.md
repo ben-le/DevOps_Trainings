@@ -14,7 +14,8 @@ When it comes to DevOps, Python is the preferred programming language for automa
 
 The latest Python Developers Survey conducted by JetBrains shows that 38% of Python usage is reported for DevOps, Automation, and System Administration.
 
-![Python for DevOps Survey](link-to-survey-image)
+![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/7af24fff-f0a2-465e-a19c-911757009cb1)
+
 
 Now let’s look at Python’s different use cases for DevOps.
 
@@ -43,17 +44,17 @@ If you are starting your DevOps engineer journey and want to learn Python, the q
 
 Here is a Python learning roadmap for DevOps Engineers with the relevant resources.
 
-- Python environment setup
-- Basic syntax
-- Variables
-- Python Data Types
-- Conditionals
-- Loops
-- Regular expressions.
-- Methods
-- Modules
-- Exception handling
-- Utilizing Python cloud SDKs (Boto3)
+1. Python environment setup
+2. Basic syntax
+3. Variables
+4. Python Data Types
+5. Conditionals
+6. Loops
+7. Regular expressions.
+8. Methods
+9. Modules
+10. Exception handling
+11. Utilizing Python cloud SDKs (Boto3)
 
 Once you learn the above concepts, you can start with hands-on Python scripting on the real-world use cases listed in the next section.
 
@@ -69,22 +70,22 @@ There are a lot of Python modules for various use cases. However, when it comes 
 
 Here is the list.
 
-- os module
-- platform
-- subprocess
-- sys
-- psutil
-- re (Regular Expression)
-- scapy
-- Requests and urllib3
-- logging
-- getpass
-- boto3
-- paramiko
-- JSON
-- PyYAML
-- pandas: One of the best data science frameworks. However, it is very useful for DevOps automation tasks dealing with CSV files.
-- smtplib
+1. os module
+2. platform
+3. subprocess
+4. sys
+5. psutil
+6. re (Regular Expression)
+7. scapy
+8. Requests and urllib3
+9. logging
+10. getpass
+11. boto3
+12. paramiko
+13. JSON
+14. PyYAML
+15. pandas: One of the best data science frameworks. However, it is very useful for DevOps automation tasks dealing with CSV files.
+16. smtplib
 
 ### Real World Python Automation Use Cases For DevOps
 
@@ -92,29 +93,29 @@ Now let’s take a look at some of the real-world use cases of Python scripting 
 
 #### Generic Python DevOps Use Cases
 
-- Python Script to query databases
-- Python script to execute a shell script and shell commands.
-- Querying Splunk logs for specific alerting
-- Python script to create Kafka Topics
-- Python script to take backups.
-- Python script for Kubernetes init containers to fetch secrets from the vault or other secrets management solutions.
-- Python script to fetch IPs of live servers in an autoscaling group.
-- Python AWS Lambda function to stop running instances on weekends.
-- Python script for ETL jobs.
-- Find SSL expiry date using python
-- Develop custom CLI applications using Python
-- CRUD operations using Python for databases.
-- Custom scripts while using configuration management tools.
+1. Python Script to query databases
+2. Python script to execute a shell script and shell commands.
+3. Querying Splunk logs for specific alerting
+4. Python script to create Kafka Topics
+5. Python script to take backups.
+6. Python script for Kubernetes init containers to fetch secrets from the vault or other secrets management solutions.
+7. Python script to fetch IPs of live servers in an autoscaling group.
+8. Python AWS Lambda function to stop running instances on weekends.
+9. Python script for ETL jobs.
+10. Find SSL expiry date using python
+11. Develop custom CLI applications using Python
+12. CRUD operations using Python for databases.
+13. Custom scripts while using configuration management tools.
 
 #### Cloud-Specific Python Use Cases
 
 When working on cloud environments, you might need custom automation scripts as part of Infrastructure as code implementations. Let’s take a look at some real-world cloud-specific Python use cases.
 
-- Provision AWS resources using Python AWS CDK.
-- Use Boto3 modules to manage AWS services.
-- Python Boto3 program to manage AWS ec2 instances.
-- Python Boto3 program to manage AWS S3 Storage.
-- Python Boto3 program to retrieve secrets from parameter store and secrets manager.
+1. Provision AWS resources using Python AWS CDK.
+2. Use Boto3 modules to manage AWS services.
+   - Python Boto3 program to manage AWS ec2 instances.
+   - Python Boto3 program to manage AWS S3 Storage.
+   - Python Boto3 program to retrieve secrets from parameter store and secrets manager.
 
 #### Kubernetes-Specific Python Use Cases
 
@@ -122,10 +123,10 @@ Many devops engineers had this question of how to leverage Python knowledge with
 
 Following are the tasks you can do with Python for while learning Kubernetes
 
-- Start by creating Python programs to interact with Kubernetes APIs using various authentication mechanisms. (Token, Certificates, etc)
-- Try running custom Python scripts with init containers to modify a file that a container requires during runtime.
-- Write a custom webhook using Python Flask API for Kubernetes Validating and Mutating Admission controllers.
-- Consider writing a Kubernetes operator in Python using the Kopf framework. An example use case for a custom Kubernetes operator could be to automate the backup of etcd to Amazon S3. You can use the kopf python framework.
+1. Start by creating Python programs to interact with Kubernetes APIs using various authentication mechanisms. (Token, Certificates, etc)
+2. Try running custom Python scripts with init containers to modify a file that a container requires during runtime.
+3. Write a custom webhook using Python Flask API for Kubernetes Validating and Mutating Admission controllers.
+4. Consider writing a Kubernetes operator in Python using the Kopf framework. An example use case for a custom Kubernetes operator could be to automate the backup of etcd to Amazon S3. You can use the kopf python framework.
 
 ### Python For DevOps GitHub Repo
 
