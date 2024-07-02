@@ -14,7 +14,7 @@ Explore the resources available here to accelerate your journey into the world o
 ## Course Overview
 - **[Learn to Use Generative AI Tools](docs/AI_Tools.md)**
 - **[Learn Linux](docs/Linux/LearnLinux.md)**
-- **Learn How Infrastructure Components Work**
+- **[Learn How Infrastructure Components Work](docs/Infras_Components/InfrastructureComponentsWork.md)**
 - **Learn Cloud Computing & Virtualization**
 - **Learn Infrastructure Automation**
 - **Learn Container Orchestration "Kubernetes" and Distributed Systems**
