@@ -4,7 +4,8 @@ Scripting is essential for a DevOps Engineer. Nowadays, for DevOps interviews, e
 
 Here is a snippet from the official Google Cloud blog which talks about skills to become a cloud engineer. It says, “Code is non-negotiable”.
 
-![Code is non-negotiable for devops engineers.](link-to-google-cloud-blog-snippet)
+![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/51217d72-9344-4d32-abce-1158187ed603)
+
 
 In one way or another, you will end up using programs and scripts in the CI/CD workflow. You can learn the following commonly used scripting languages:
 
@@ -16,15 +17,16 @@ In one way or another, you will end up using programs and scripts in the CI/CD w
 
 You can check out my following articles:
 
-- [Shell Scripting for DevOps](link-to-shell-scripting-article)
-- [Best Programming Languages for DevOps](link-to-best-programming-languages-article)
-- [Python for DevOps](link-to-python-for-devops-article) – where I have explained different use cases of programming & scripting in DevOps.
+- [Shell Scripting for DevOps](https://devopscube.com/linux-shell-scripting-for-devops/)
+- [Best Programming Languages for DevOps](https://devopscube.com/programming-languages-devops/)
+- [Python for DevOps](https://devopscube.com/python-for-devops/)
 
 To become a true DevOps engineer, you need to understand the developers’ world better. To do that, you need to know how a typical development process works. It is essential to have a good understanding of programming, APIs, etc. It will help you troubleshoot and collaborate better. Also, an understanding of APIs is a basic prerequisite to learning Kubernetes.
 
 My suggestion is to pick a programming language and build an application from scratch. When I started my career, I built an entire Ruby on Rails web application from scratch even though development was not my primary work. This has helped me understand many concepts in the developer’s world. Even Google Cloud experts suggest the same.
 
-![Learn to build API for DevOps](link-to-google-cloud-experts-suggestion)
+![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/8e8e177b-5681-4894-8335-0a1add320ab6)
+
 
 When you develop an application, you will understand the process and components involved in application development. Once you know this, you can effectively interact with developers and have meaningful conversations.
 
@@ -41,7 +43,8 @@ Golang is really getting popular in the DevOps domain. Lots of DevOps tooling is
 
 JFrog surveyed Golang adoption during GopherCon, and 18% of the respondents said they use Golang for DevOps-related work.
 
-![Golang DevOps adoption survey](link-to-golang-survey)
+![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/8e5a2524-5811-40e3-9fbc-85916cca3c72)
+
 
 I have given enough reasons on why you should learn programming as a DevOps engineer.
 
