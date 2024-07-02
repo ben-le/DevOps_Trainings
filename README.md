@@ -1,6 +1,5 @@
-# Free DevOps Training Documentation and Hand-on experiences
-
-Welcome to the Free DevOps Training Documentation repository! This repository is dedicated to offering extensive training materials aimed at cultivating a thorough understanding of DevOps practices, tools, and methodologies. Whether you're new to DevOps or a seasoned professional, this training resource is designed to enrich your skills and broaden your knowledge base.
+# Free DevOps Training Documentation and Hands-on experiences
+This repository offers free DevOps training documentation and practical hands-on experiences.! This repository is dedicated to offering extensive training materials aimed at cultivating a thorough understanding of DevOps practices, tools, and methodologies. Whether you're new to DevOps or a seasoned professional, this training resource is designed to enrich your skills and broaden your knowledge base.
 
 ### What You'll Find Here
 
