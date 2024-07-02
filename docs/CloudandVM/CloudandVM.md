@@ -10,7 +10,7 @@ When I say “Get Certified,” please do not use exam dumps to pass the certifi
 
 Most of the public cloud market share is currently owned by AWS. Here is the latest report from Statista.
 
-![Latest Public Cloud Market Share](link-to-statista-report)
+![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/685f8f56-9476-4887-920f-340093737f9b)
 
 Pick any one public cloud, preferably AWS, and learn about all its core infrastructure services. Do hands-on on all the core services and understand how they work.
 
