@@ -139,3 +139,10 @@ Or you can clone the repo.
 ```bash
 git clone https://github.com/techiescamp/python-for-devops
 
+### How Important is Python for DevOps Engineers?
+Coding for DevOps engineers is a highly debated topic. However, In my experience as a DevOps engineer, I encountered many situations where I had to use Python for DevOps in terms of automation, continuous integration/deployment/delivery (CI/CD), and custom auto-scaling solutions.
+
+Also, When it comes to DevOps engineer interviews, Python plays a key role. Most Devops preliminary interview rounds have live coding sessions. Therefore, you will have to solve programming challenges related to devops. With a good knowledge of Python, you can easily crack these interviews.
+
+
+
