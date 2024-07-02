@@ -12,7 +12,7 @@ This repository offers free DevOps training documentation and practical hands-on
 Explore the resources available here to accelerate your journey into the world of DevOps. Start learning today and empower yourself with the tools and techniques essential for modern software development and operations.
 
 ## Course Overview
-- **[Learn to Use Generative AI Tools](AI_Tools.md)**
+- **[Learn to Use Generative AI Tools](docs/AI_Tools.md)**
 - **[Learn Linux](docs/LearnLinux.md)**
 - **Learn How Infrastructure Components Work**
 - **Learn Cloud Computing & Virtualization**
