@@ -17,13 +17,13 @@ Explore the resources available here to accelerate your journey into the world o
 - **Learn How Infrastructure Components Work**
 - **Learn Cloud Computing & Virtualization**
 - **Learn Infrastructure Automation**
-- **Learn Container Orchestration and Distributed Systems**
+- **Learn Container Orchestration "Kubernetes" and Distributed Systems**
 - **Logging & Monitoring & Observability**
 - **Learn Security Best Practices (DevSecOps)**
 - **Learn Programming & Scripting**
 - **Learn Git, GitOps & Learn to Document**
-- **Understand End To End Application Delivery Lifecycle**
-- **Resources**
+- **Understand End To End Application Delivery Lifecycle - CI/CD**
+
 
 
 
