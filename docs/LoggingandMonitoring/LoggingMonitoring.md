@@ -20,7 +20,7 @@ As a DevOps engineer, you should be able to query logs and troubleshoot issues i
 
 ### Resources
 
-- [Prometheus Architecture](link-to-prometheus-architecture)
-- [Regular Expressions (Regex) Tutorial](link-to-regex-tutorial)
-- [DevOps Measurement: Monitoring and Observability](link-to-devops-measurement)
+- [Prometheus Architecture](https://devopscube.com/prometheus-architecture/)
+- [Regular Expressions (Regex) Tutorial](https://www.youtube.com/watch?v=sa-TUpSx1JA)
+- [DevOps Measurement: Monitoring and Observability](https://cloud.google.com/architecture/devops)
 
