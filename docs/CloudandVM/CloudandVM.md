@@ -24,7 +24,7 @@ Use the certification to gauge yourself on the respective platform.
 
 ### Cloud & Virtualization Learning Resources:
 
-- [VirtualBox Tutorial](link-to-virtualbox-tutorial)
+- [VirtualBox Tutorial]([link-to-virtualbox-tutorial](https://devopscube.com/virtual-box-tutorial/))
 - [Vagrant Tutorial for Beginners](link-to-vagrant-tutorial)
 - [AWS Certification Courses](link-to-aws-certification-courses)
 - [Microsoft Azure – Beginner’s Guide + AZ-900 Preparation](link-to-azure-guide)
