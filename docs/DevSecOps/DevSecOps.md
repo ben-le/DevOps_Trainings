@@ -17,6 +17,7 @@ The Cloud Security Alliance states:
 > Security can be achieved only when it has been designed in. Applying security measures as an afterthought is a recipe for disaster.
 
 
+
 In cloud environments, crypto mining is one of the common attacks. This often happens due to poorly maintained cloud access secrets, allowing hackers to gain access.
 
 
