@@ -1,9 +1,9 @@
-# DevOps_Trainings
-DevOps Training Documentation
+# DevOps Training Documentation
 Welcome to the DevOps Training Documentation repository! This repository contains comprehensive training materials designed to provide a deep understanding of DevOps practices, tools, and methodologies. Whether you are a beginner or an experienced professional, this training will help you enhance your DevOps skills and knowledge.
 
-Course Overview
-Introduction to DevOps
+## Course Overview
+
+### Introduction to DevOps
 What is DevOps?
 The DevOps Lifecycle
 Benefits of DevOps
