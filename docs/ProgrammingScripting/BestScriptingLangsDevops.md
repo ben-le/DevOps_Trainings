@@ -1,17 +1,4 @@
-# Best Programming & Scripting Languages for DevOps Engineers
-
-**by Bibin Wilson and Nishantha Singh  
-September 21, 2023**
-
-## Programming & Scripting Languages for DevOps Engineers
-
-Want to jump straight to the answer? The best programming languages for DevOps Engineers are **Python & Golang**.
-
-This blog emphasizes programming and scripting languages commonly used by DevOps engineers in DevOps environments for automation needs.
-
 ### What are the Best Programming and Scripting Languages for DevOps Engineers?
-
-Without wasting any more time, let’s dig right in! (In no particular order)
 
 1. **GoLang**
    When it comes to DevOps, GoLang is my #1 choice.
@@ -22,7 +9,7 @@ Without wasting any more time, let’s dig right in! (In no particular order)
 
    Many DevOps tools like Docker (containerization), Kubernetes (container orchestration), Juju (orchestration), and Terraform (Infrastructure as Code) are written in Golang due to its ability to compile standalone, static binaries for all major operating systems.
 
-   Golang Learning Resource: [An Introduction to Programming in Go](link-to-golang-learning-resource)
+   Golang Learning Resource: [An Introduction to Programming in Go](https://www.educative.io/courses/introduction-to-programming-in-go?aff=KNLz)
 
 2. **Python**
    Python is a must-know scripting language for DevOps engineers.
@@ -33,7 +20,7 @@ Without wasting any more time, let’s dig right in! (In no particular order)
 
    Python is widely adopted across organizations for infrastructure development, platform automation, and CI/CD utilities.
 
-   Python Learning Resource: [Learn Python 3 from Scratch](link-to-python-learning-resource)
+   Python Learning Resource: [Learn Python 3 from Scratch](https://www.educative.io/courses/learn-python-3-from-scratch?aff=KNLz)
 
 3. **Bash**
    Bash scripts (Linux Shell Scripting) are essential for various DevOps projects, including automated installations and configuration management.
