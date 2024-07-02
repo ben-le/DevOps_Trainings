@@ -3,18 +3,18 @@
 Welcome to the DevOps Training Documentation repository! This repository contains comprehensive training materials designed to provide a deep understanding of DevOps practices, tools, and methodologies. Whether you are a beginner or an experienced professional, this training will help you enhance your DevOps skills and knowledge.
 
 ## Course Overview
-- **Learn to Use Generative AI Tools
-- **Learn Linux
-- **Learn How Infrastructure Components Work
-- **Learn Cloud Computing & Virtualization
-- **Learn Infrastructure Automation
-- **Learn Container Orchestration and Distributed Systems
-- **Logging & Monitoring & Observability
-- **Learn Security Best Practices (DevSecOps)
-- **Learn Programming & Scripting
-- **Learn Git, GitOps & Learn to Document
-- **Understand End To End Application Delivery Lifecycle
-- **Resources
+- **Learn to Use Generative AI Tools**
+- **Learn Linux**
+- **Learn How Infrastructure Components Work**
+- **Learn Cloud Computing & Virtualization**
+- **Learn Infrastructure Automation**
+- **Learn Container Orchestration and Distributed Systems**
+- **Logging & Monitoring & Observability**
+- **Learn Security Best Practices (DevSecOps)**
+- **Learn Programming & Scripting**
+- **Learn Git, GitOps & Learn to Document**
+- **Understand End To End Application Delivery Lifecycle**
+- **Resources**
 
 
 ### Module 1: Continuous Integration and Continuous Deployment (CI/CD)
