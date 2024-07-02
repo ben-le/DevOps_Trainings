@@ -20,23 +20,24 @@ You can use VirtualBox with Vagrant or AWS/GCP/Azure to spin up Linux servers.
 
 You can start with the following:
 
-- Understand the Linux booting process
-- Understand `systemd`
-- Install and configure web servers (`Apache`, `Nginx`, `Tomcat`, etc.) and learn how web servers work.
-- Learn how Linux processes work.
-- Learn to set up HTTP proxies.
-- Learn how `SSH` works.
-- Learn about different file systems.
-- Learn how volumes work in Linux.
-- Learn about system logging, monitoring, and troubleshooting.
-- Learn about important protocols (`SSL`, `TLS`, `TCP`, `UDP`, `FTP`, `SFTP`, `SCP`, `SSH`).
-- Learn to manage services and try to create a service on your own (`Initd`, `Systemd`).
-- Host static/dynamic websites on web servers and play around with different configurations.
-- Understand the difference between a Load Balancer and a Reverse Proxy.
-- Set up Load Balancers and Reverse Proxy (`Nginx`, `HAProxy`, etc.). Understand each configuration and algorithm behind load balancing.
-- Learn to optimize Linux performance.
-- Set up a database and understand its configurations and management (e.g., PostgreSQL setup).
-- Break something and learn to troubleshoot.
+- 1. Understand the Linux booting process
+2. Understand `systemd`
+3. Install and configure web servers (Apache, Nginx, Tomcat, etc.) and learn how web servers work.
+4. Learn how Linux processes work.
+5. Learn to set up HTTP proxies.
+6. Learn how `SSH` works.
+7. Learn about different file systems.
+8. Learn how volumes work in Linux.
+9. Learn about system logging, monitoring, and troubleshooting.
+10. Learn about important protocols (`SSL`, `TLS`, `TCP`, `UDP`, `FTP`, `SFTP`, `SCP`, `SSH`).
+11. Learn to manage services and try to create a service on your own (`Initd`, `Systemd`).
+12. Host static/dynamic websites on web servers and play around with different configurations.
+13. Understand the difference between a Load Balancer and a Reverse Proxy.
+14. Set up Load Balancers and Reverse Proxy (`Nginx`, `HAProxy`, etc.). Understand each configuration and algorithm behind load balancing.
+15. Learn to optimize Linux performance.
+16. Set up a database and understand its configurations and management (e.g., PostgreSQL setup).
+17. Break something and learn to troubleshoot.
+
 
 Tip: When working on real projects, you often work on Linux systems in a private network with limited access to public websites and resources. You need to have good knowledge of managing packages without internet connectivity.
 
