@@ -16,20 +16,14 @@ The Cloud Security Alliance states:
 
 > Security can be achieved only when it has been designed in. Applying security measures as an afterthought is a recipe for disaster.
 
-You can check out [The Six Pillars of DevSecOps](https://cloudsecurityalliance.org/artifacts/the-six-pillars-of-devsecops/) by the Cloud Security Alliance.
-
-### Cybersecurity Insights
-
-Here is an interesting [Checkpoint 2020 security survey](https://www.checkpoint.com/cyber-security/cyber-attack-trends-2020-cyber-security-report/) that shows different cyber attacks by region.
 
 In cloud environments, crypto mining is one of the common attacks. This often happens due to poorly maintained cloud access secrets, allowing hackers to gain access.
 
-### Secret Management
 
 In DevOps, secret management for applications and infrastructure components should follow standard security practices. Consider reading about Zero trust security practices.
 
-![DevSecOps Best Practices](https://example.com/redhat-devsecops-practices.png)
-*Source: Redhat.com*
+![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/716a1226-bcd2-41c5-b86d-67e24107cfcb)
+
 
 ### Recommended Tools
 
