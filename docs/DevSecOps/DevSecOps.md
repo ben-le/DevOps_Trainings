@@ -36,6 +36,6 @@ In DevOps, secret management for applications and infrastructure components shou
 - [Vault Tutorial](https://developer.hashicorp.com/vault/tutorials)
 - [What is Container Security?](https://containersecurity.com/)
 - [Container Scanning using Trivy](https://github.com/aquasecurity/trivy)
-- [Kubernetes Vault Setup Guide](https://kubernetes.io/docs/tasks/inject-data-application/vault-injector/)
+- [Kubernetes Vault Setup Guide](https://devopscube.com/vault-in-kubernetes/)
 - [Vault Injector Tutorial](https://learn.hashicorp.com/tutorials/vault/kubernetes-secret-injection)
 
