@@ -24,11 +24,10 @@ Service mesh is an advanced topic in the container space. If you are a beginner 
 
 ### Resources
 
-- [Docker for the Absolute Beginner](link-to-docker-beginner-tutorial)
-- [How to Build a Docker Image](link-to-docker-image-tutorial)
-- [Podman Tutorial for Beginners](link-to-podman-tutorial)
-- [How to Learn Kubernetes – Comprehensive Roadmap](link-to-kubernetes-roadmap)
-- [Kubernetes Tutorials for Beginners](link-to-kubernetes-tutorials)
-- [Best Kubernetes Courses](link-to-kubernetes-courses)
-- [Kubernetes the Hard Way](link-to-kubernetes-the-hard-way)
+- [Docker for the Absolute Beginner](https://techiescamp.com/courses/learn-container-basics-docker-podman/)
+- [How to Build a Docker Image](https://devopscube.com/build-docker-image/)
+- [Podman Tutorial for Beginners](https://devopscube.com/podman-tutorial-beginners/)
+- [How to Learn Kubernetes – Comprehensive Roadmap](https://devopscube.com/learn-kubernetes-complete-roadmap/)
+- [Kubernetes Tutorials for Beginners](https://devopscube.com/kubernetes-tutorials-beginners/)
+- [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
