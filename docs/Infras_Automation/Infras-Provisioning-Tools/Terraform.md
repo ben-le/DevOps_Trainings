@@ -37,7 +37,6 @@ Terraform is an open-source tool developed by HashiCorp that allows users to def
 ### Basic Commands
 
 - **Initialize a Configuration Directory**:
-  ```bash
   terraform init
 
 - **Create an Execution Plan:**
@@ -48,5 +47,5 @@ Terraform is an open-source tool developed by HashiCorp that allows users to def
 
 - **Destroy Infrastructure:**
   terraform destroy
-  ```
+
   
