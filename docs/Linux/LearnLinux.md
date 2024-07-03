@@ -35,7 +35,7 @@ Now you have enough reasons why you should focus on Linux. When it comes to Linu
 19. [Manage Services and Build Your Own (Initd, Systemd) (`Initd`, `Systemd`)](ManageServices.md)
 20. [Configure HTTP Proxies for Secure Connections](HTTP_Proxies.md)
 21. [Host Static/Dynamic Websites: Experiment with Configurations](HostWebsites.md)
-22. [Install and Configure Web Servers (Apache, Nginx, Tomcat): Uncover Server Operations]
+22. [Install and Configure Web Servers (Apache, Nginx, Tomcat): Uncover Server Operations](https://www.atlantic.net/vps-hosting/how-to-setup-tomcat-with-nginx-as-a-reverse-proxy-on-ubuntu/)
 23. [Load Balancers vs. Reverse Proxies: Understanding the Difference](LoadBalancerVsReverseProxy.md)
 24. [Set Up Load Balancers and Reverse Proxies (Nginx, HAProxy): Explore Configuration and Algorithms ](SetupLoadBalancerandReverseProxy.md)
 25. [Optimize Linux Performance for Efficiency](OptimizePerformance.md)
