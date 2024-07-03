@@ -36,7 +36,8 @@ Ansible is an open-source automation tool developed by Red Hat that provides pow
 
 
 ### Additional Resources
-Ansible Documentation
-Ansible Galaxy: A repository for sharing Ansible roles.
-Ansible GitHub Repository
+- Ansible Documentation
+- Ansible Galaxy: A repository for sharing Ansible roles.
+- Ansible GitHub Repository
+  
 Ansible is a versatile tool that simplifies automation across a wide range of environments, making it an essential tool for modern IT infrastructure management.
