@@ -29,6 +29,10 @@ It's not just a job title; it's a collaborative way of working that bridges the 
     - **[Pulumi vs. Terraform Pros and Cons](docs/Infras_Automation/Infras-Provisioning-Tools/TerraformVsPulumi.md)**
     - **[Ansible vs. Terrform](docs/Infras_Automation/Infras-Provisioning-Tools/TerraformVsAnsible.md)**
   - **[Configuration Management]**
+    - **[Ansible](docs/Infras_Automation/CM/Ansible_Overview.md)**
+    - **[Chef](docs/Infras_Automation/CM/Chef-Overview.md)**
+    - **[Puppet]**
+    - **[SaltStack]**
   - **[Dev Environment]**
   - **[VM Image/Container Management]**
 - **[Learn Infrastructure Automation](docs/Infras_Automation/Infras_Automation.md)**
