@@ -23,18 +23,18 @@ sudo sysctl vm.swappiness=10   # Set swappiness to 10
 sudo sync && echo 3 | sudo tee /proc/sys/vm/drop_caches   # Clear caches
 
 #### 4. Disk Optimization
-- **Filesystem Mount Options:** Use noatime, nodiratime, or relatime mount options to reduce disk writes.
-- **I/O Scheduler:** Select appropriate I/O scheduler (deadline, cfq, noop) for your workload:
+- **Filesystem Mount Options:** Use **noatime**, **nodiratime**, or **relatime** mount options to reduce disk writes.
+- **I/O Scheduler:** Select appropriate I/O scheduler (**deadline**, **cfq**, **noop**) for your workload:
 
 sudo echo deadline > /sys/block/sda/queue/scheduler   # Set deadline scheduler
 
 #### 5. Network Optimization
-- **TCP Tuning:** Adjust TCP parameters (tcp_window_scaling, tcp_tw_reuse, tcp_keepalive_time) for better network performance.
+- **TCP Tuning:** Adjust TCP parameters (**tcp_window_scaling**, **tcp_tw_reuse**, **tcp_keepalive_time**) for better network performance.
 
 sudo sysctl -w net.ipv4.tcp_window_scaling=1   # Enable TCP window scaling
 
 #### 6. Kernel Optimization
-- **Kernel Parameters:** Fine-tune kernel parameters (sysctl) for specific workloads and hardware configurations.
+- **Kernel Parameters:** Fine-tune kernel parameters (**sysctl**) for specific workloads and hardware configurations.
 sudo sysctl -p   # Apply sysctl settings
 
 #### 7. Application and Service Optimization
@@ -46,7 +46,7 @@ sudo sysctl -p   # Apply sysctl settings
 - **Disable Unnecessary Services:** Reduce attack surface and free up resources by disabling unnecessary services.
 
 #### 9. Benchmarking and Testing
-- **Performance Testing:** Use tools like `**sysbench**`, `**iperf**`, and `**ab**` for benchmarking CPU, memory, disk, and network performance.
+- **Performance Testing:** Use tools like **sysbench**, **iperf**, and **ab** for benchmarking CPU, memory, disk, and network performance.
 - **Load Testing:** Simulate load conditions to identify bottlenecks and optimize accordingly.
 
 #### Summary
