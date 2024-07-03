@@ -19,8 +19,8 @@ It's not just a job title; it's a collaborative way of working that bridges the 
 - **[Linux Fundamentals](docs/Linux/LearnLinux.md)**
 - **Infrastructure Essentials**
   - **[Components (Networking, Storage, HA, Single Sign-On, Security, and Load Balancers](docs/Infras_Components/InfrastructureComponentsWork.md)**
-  - **[Cloud](docs/CloudandVM/CloudandVM.md)**
-  - **[Virtualization](docs/CloudandVM/VagrantVirtual-ProsandCons.md)**
+  - **[Clouds (AWS, Azure, and GCP](docs/CloudandVM/CloudandVM.md)**
+  - **[Virtualization (Vagrant and Virtualbox)](docs/CloudandVM/VagrantVirtual-ProsandCons.md)**
 - **Automation Powerhouse**
   - **Scripting**
   - **Infrastructure Automation**
