@@ -24,6 +24,10 @@ It's not just a job title; it's a collaborative way of working that bridges the 
 - **Infrastructure Automation**
   - **[Infrastructure Provisioning]**
     - **[Terraform](/docs/Infras_Automation/Infras-Provisioning-Tools/Terraform.md)**
+    - **[AWS CloudFormation](docs/Infras_Automation/Infras-Provisioning-Tools/CloudProviders-CLIs.md)**
+    - **[Cloud Providers CLIs](docs/Infras_Automation/Infras-Provisioning-Tools/CloudProviders-CLIs.md)**
+    - **[Pulumi vs. Terraform Pros and Cons](docs/Infras_Automation/Infras-Provisioning-Tools/TerraformVsPulumi.md)**
+    - **(Ansible vs. Terrform](docs/Infras_Automation/Infras-Provisioning-Tools/TerraformVsAnsible.md)**
   - **[Configuration Management]**
   - **[Dev Environment]**
   - **[VM Image/Container Management]**
