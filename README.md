@@ -22,7 +22,7 @@ It's not just a job title; it's a collaborative way of working that bridges the 
   - **[Clouds (AWS, Azure, and GCP)](docs/CloudandVM/CloudandVM.md)**
   - **[Virtualization (Vagrant and Virtualbox)](docs/CloudandVM/VagrantVirtual-ProsandCons.md)**
 - **Infrastructure Automation**
-  - **[Infrastructure Provisioning]**
+  - **Infrastructure Provisioning**
     - **[Terraform](/docs/Infras_Automation/Infras-Provisioning-Tools/Terraform.md)**
     - **[AWS CloudFormation](docs/Infras_Automation/Infras-Provisioning-Tools/CloudProviders-CLIs.md)**
     - **[Cloud Providers CLIs](docs/Infras_Automation/Infras-Provisioning-Tools/CloudProviders-CLIs.md)**
