@@ -10,13 +10,13 @@ Optimizing Linux performance involves tuning various system parameters, monitori
 #### 2. CPU Optimization
 
 - **CPU Governors:** Adjust CPU frequency scaling governors (`ondemand`, `performance`) to balance power consumption and performance.
-  ```bash
+ 
   sudo cpupower frequency-set --governor performance   # Set CPU governor to performance
 
-- #### Process Management: Identify and optimize CPU-intensive processes using tools like pidstat and ps.
+- **Process Management:** Identify and optimize CPU-intensive processes using tools like **pidstat** and **ps**.
 
 #### 3. Memory Optimization
-- **Swappiness:** Adjust the swappiness value to optimize swap usage: <br>
+- **Swappiness:** Adjust the swappiness value to optimize swap usage:
 sudo sysctl vm.swappiness=10   # Set swappiness to 10
 
 - **Clear PageCache and dentries:** Clear cached memory periodically for better memory management.
