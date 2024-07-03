@@ -21,9 +21,11 @@ It's not just a job title; it's a collaborative way of working that bridges the 
   - **[Components (Networking, Storage, HA, Single Sign-On, Security, and Load Balancers)](docs/Infras_Components/InfrastructureComponentsWork.md)**
   - **[Clouds (AWS, Azure, and GCP)](docs/CloudandVM/CloudandVM.md)**
   - **[Virtualization (Vagrant and Virtualbox)](docs/CloudandVM/VagrantVirtual-ProsandCons.md)**
-- **Automation Powerhouse**
-  - **Scripting**
-  - **Infrastructure Automation**
+- **Infrastructure Automation**
+  - **[Infrastructure Provisioning:]**
+  - **[Configuration Management:]**
+  - **[Dev Environment:]**
+  - **[VM Image/Container Management]**
 - **[Learn Infrastructure Automation](docs/Infras_Automation/Infras_Automation.md)**
 - **[Learn Container Orchestration "Kubernetes" and Distributed Systems](docs/Kubernetes/Kubernetes.md)**
 - **[Logging & Monitoring & Observability](docs/LoggingandMonitoring/LoggingMonitoring.md)**
