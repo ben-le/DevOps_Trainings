@@ -15,7 +15,7 @@ It's not just a job title; it's a collaborative way of working that bridges the 
 **Explore our curated resources to propel your DevOps journey!** Start learning today and master the tools and techniques driving modern software development and operations.
 
 ### Course Overview
-- **[Learn to Use Generative AI Tools](docs/AI_Tools.md)**
+- **[Leveraging Generative AI for Enhanced DevOps Efficiency](docs/AI_Tools.md)**
 - **[Linux Fundamentals](docs/Linux/LearnLinux.md)**
 - **Infrastructure Essentials**
   - **[Components](docs/Infras_Components/InfrastructureComponentsWork.md)**
