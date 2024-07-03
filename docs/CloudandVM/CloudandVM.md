@@ -5,11 +5,9 @@ Cloud computing and virtualization are the cornerstones of modern DevOps practic
 Get started with virtualization using tools like VirtualBox and Vagrant. These provide a hands-on environment to learn Type 2 virtualization concepts, a foundational skill for cloud computing.
 
 #### Conquer the Cloud:
-
 Once you've grasped virtualization, dive deeper into cloud platforms.  Earning certifications validates your knowledge and demonstrates your expertise to potential employers.  Focus on building a strong understanding - certification is the reward, not the shortcut. Exam dumps offer a temporary fix, not lasting value.
 
 #### Choose Your Cloud Path:
-
 The cloud landscape is dominated by giants like AWS (link to Statista report on cloud market share).  However, exploring other providers like Microsoft Azure or Google Cloud Platform can broaden your knowledge. The best choice depends on your specific needs and career goals.
 
 <img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/685f8f56-9476-4887-920f-340093737f9b" width="500">
@@ -17,9 +15,9 @@ The cloud landscape is dominated by giants like AWS (link to Statista report on 
 
 The cloud computing market is vast, but here are the top 3 most popular cloud computing vendors  as of 2024:
 
-1. [AWS Overview]
-2. [Azure Overview]
-3. [Google Cloud (GCP) Overview] 
+1. [AWS Overview](AWS_Overview.md)
+2. [Azure Overview](Azure_Overview.md)
+3. [Google Cloud (GCP) Overview](Google-Cloud_Overview.md) 
 
 
 ### Cloud & Virtualization Learning Resources:
