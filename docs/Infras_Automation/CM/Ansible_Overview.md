@@ -23,15 +23,6 @@ Ansible is an open-source automation tool developed by Red Hat that provides pow
 - **Efficient Management**: Handles thousands of nodes with ease, making it suitable for large-scale deployments.
 - **Parallel Execution**: Executes tasks in parallel, speeding up the automation process.
 
-## Getting Started
-
-### Installation
-
-To install Ansible, use the following command:
-```bash
-pip install ansible
-```
-
 ### Basic Concepts
 - **Playbooks:** YAML files that define a set of tasks to be executed on remote nodes.
 - **Inventories:** Lists of managed nodes, which can be static or dynamically generated.
