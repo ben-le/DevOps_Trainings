@@ -54,7 +54,7 @@ end
 
 ### Running Chef
 - **Install Chef Workstation:** Download and install Chef Workstation from the Chef website.
-- **Bootstrap a Node:** Use the knife bootstrap command to install Chef on a node and connect it to the Chef server.
+- **Bootstrap a Node:** Use the **knife bootstrap** command to install Chef on a node and connect it to the Chef server.
 - **Apply a Recipe:** Upload the cookbook to the Chef server and run chef-client on the node to apply the recipe.
 
 ### Best Practices
