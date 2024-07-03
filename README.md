@@ -23,7 +23,7 @@ It's not just a job title; it's a collaborative way of working that bridges the 
   - **[Virtualization (Vagrant and Virtualbox)](docs/CloudandVM/VagrantVirtual-ProsandCons.md)**
 - **Infrastructure Automation**
   - **[Infrastructure Provisioning]**
-    - **[Terraform]/docs/Infras_Automation/Infras-Provisioning-Tools/Terraform.md)**
+    - **[Terraform](/docs/Infras_Automation/Infras-Provisioning-Tools/Terraform.md)**
   - **[Configuration Management]**
   - **[Dev Environment]**
   - **[VM Image/Container Management]**
