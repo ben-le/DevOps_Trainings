@@ -17,8 +17,10 @@ Modern DevOps practices automate everything from server provisioning to applicat
 
 ### Dev Environment:
 1. Vagrant
-2. Docker Desktop
-3. Kubernetes (Kubeadm, Minikube, Minishift, Kind)
+2. VirtualBox
+3. Vagrant vs. VirtualBox: Pros and Cons
+4. Docker or Docker Desktop
+5. Kubernetes (Kubeadm, Minikube, Minishift, Kind)
 
 
 ### Infrastructure Provisioning
