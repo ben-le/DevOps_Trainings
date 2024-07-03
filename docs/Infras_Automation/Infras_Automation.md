@@ -4,7 +4,7 @@ We no longer create servers manually. Infrastructure automation tools have becom
 
 As per a report from Red Hat, many organizations are investing in their automation initiatives. Check out this data:
 
-<img src=https://github.com/ben-le/DevOps_Trainings/assets/34547999/44b3526f-ab6f-4118-99df-c41e9b8f9237" width="400">
+<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/44b3526f-ab6f-4118-99df-c41e9b8f9237" width="400">
 
 
 From provisioning servers to application configuration and deployment, everything should be automated. You can learn any of the following DevOps toolsets that fit your needs:
