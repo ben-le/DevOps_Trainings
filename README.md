@@ -16,13 +16,13 @@ Explore the resources available here to accelerate your journey into the world o
 - **[Learn Linux](docs/Linux/LearnLinux.md)**
 - **[Learn How Infrastructure Components Work](docs/Infras_Components/InfrastructureComponentsWork.md)**
 - **[Learn Cloud Computing & Virtualization](docs/CloudandVM/CloudandVM.md)**
-- **Learn Infrastructure Automation**
-- **Learn Container Orchestration "Kubernetes" and Distributed Systems**
-- **Logging & Monitoring & Observability**
-- **Learn Security Best Practices (DevSecOps)**
-- **Learn Programming & Scripting**
-- **Learn Git, GitOps & Learn to Document**
-- **Understand End To End Application Delivery Lifecycle - CI/CD**
+- **[Learn Infrastructure Automation](docs/Infras_Automation/Infras_Automation.md)**
+- **[Learn Container Orchestration "Kubernetes" and Distributed Systems](docs/Kubernetes/Kubernetes.md)**
+- **[Logging & Monitoring & Observability](docs/LoggingandMonitoring/LoggingMonitoring.md)**
+- **[Learn Security Best Practices (DevSecOps)](docs/DevSecOps/DevSecOps.md)**
+- **[Learn Programming & Scripting](docs/ProgrammingScripting/shell-scripting-for-devops.md)**
+- **[Learn Git, GitOps & Learn to Document](docs/GitandDocument/LearnGit.md)**
+- **[Understand End To End Application Delivery Lifecycle - CI/CD](docs/CICD/CICD.md)**
 
 
 
