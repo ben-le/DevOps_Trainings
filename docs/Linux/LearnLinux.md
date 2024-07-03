@@ -15,22 +15,22 @@ Now you have enough reasons why you should focus on Linux. When it comes to Linu
 ### You can start with the following:
 
 1. [Understand the Linux booting process](Booting_Process.md)
-2. Understand `systemd`
-3. Install and configure web servers (Apache, Nginx, Tomcat, etc.) and learn how web servers work.
-4. Learn how Linux processes work.
-5. Learn to set up HTTP proxies.
-6. Learn how `SSH` works.
-7. Learn about different file systems.
-8. Learn how volumes work in Linux.
-9. Learn about system logging, monitoring, and troubleshooting.
-10. Learn about important protocols (`SSL`, `TLS`, `TCP`, `UDP`, `FTP`, `SFTP`, `SCP`, `SSH`).
-11. Learn to manage services and try to create a service on your own (`Initd`, `Systemd`).
-12. Host static/dynamic websites on web servers and play around with different configurations.
-13. Understand the difference between a Load Balancer and a Reverse Proxy.
-14. Set up Load Balancers and Reverse Proxy (`Nginx`, `HAProxy`, etc.). Understand each configuration and algorithm behind load balancing.
-15. Learn to optimize Linux performance.
-16. Set up a database and understand its configurations and management (e.g., PostgreSQL setup).
-17. Break something and learn to troubleshoot.
+2. [Understand (**systemd**)](Systemd.md)
+3. [Install and configure web servers (Apache, Nginx, Tomcat, etc.) and learn how web servers work](
+4. [Learn how Linux processes work](Processes_Work.md)
+5. [Learn to set up HTTP proxies](HTTP_Proxies.md)
+6. [Learn how `SSH` works](SSH_Works.md)
+7. [Learn about different file systems](FileSystems.md)
+8. [Learn how volumes work in Linux](Volumes_Works.md)
+9. [Learn about system logging, monitoring, and troubleshooting](LogsMonitorTroubleshoot.md)
+10. [Learn about important protocols (`SSL`, `TLS`, `TCP`, `UDP`, `FTP`, `SFTP`, `SCP`, `SSH`)](Protocols.md)
+11. [Learn to manage services and try to create a service on your own (`Initd`, `Systemd`)](ManageServices.md)
+12. [Host static/dynamic websites on web servers and play around with different configurations](HostWebsites.md)
+13. [Understand the difference between a Load Balancer and a Reverse Proxy](LoadBalancerVsReverseProxy.md)
+14. [Set up Load Balancers and Reverse Proxy (`Nginx`, `HAProxy`, etc.). Understand each configuration and algorithm behind load balancing](SetupLoadBalancerandReverseProxy.md)
+15. [Learn to optimize Linux performance](OptimizePerformance.md)
+16. [Set up a database and understand its configurations and management (e.g., PostgreSQL setup)](Database.md)
+17. [Break something and learn to troubleshoot](Practice_Troubleshoot.md)
 
 
 Tip: When working on real projects, you often work on Linux systems in a private network with limited access to public websites and resources. You need to have good knowledge of managing packages without internet connectivity.
