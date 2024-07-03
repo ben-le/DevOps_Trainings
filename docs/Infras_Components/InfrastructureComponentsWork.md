@@ -11,56 +11,57 @@ A strong foundation is crucial for any successful organization, and IT infrastru
 This leads nicely into the list of infrastructure components you should explore for a better understanding.
 
 #### Networking
-1. OSI Model/TCP-IP Model
-2. Network Topologies
-3. CIDR Notations
-4. Subnetting
-5. Public network
-6. Private network
-7. Static/Dynamic IPs
-8. Firewall
-9. Proxy
-10. NAT
-11. Public & Private DNS
-12. VPN
-13. IPv4 & IPv6 Protocols
+1. [OSI Model/TCP-IP Model](Networking/OSI_ModeandTCP_IP.md)
+2. [Network Topologies]
+3. [CIDR Notations]
+4. [Subnetting]
+5. [Public network]
+6. [Private network]
+7. [Static/Dynamic IPs]
+8. [Firewall]
+9. [Proxy]
+10. [NAT]
+11. [Public & Private DNS]
+12. [VPN]
+13. [IPv4 & IPv6 Protocols]
 
 #### Storage
-1. SAN
-2. Backups
-3. NFS
-4. Object storage
-5. Disk IOPS/throughput/latency
-6. Databases
-7. Key-Value Stores
+1. [SAN]
+2. [Backups]
+3. [NFS]
+4. [Object storage]
+5. [Disk IOPS/throughput/latency]
+6. [Databases]
+7. [Key-Value Stores]
 
 #### High Availability
-1. Clusters
-2. Fail-Over Mechanisms
-3. Disaster Recovery
-4. Vertical scaling
-5. Horizontal scaling
+1. [Clusters]
+2. [Fail-Over Mechanisms]
+3. [Disaster Recovery]
+4. [Vertical scaling]
+5. [Horizontal scaling]
+6. [Load Balancers]
 
 #### Single Sign-On
-1. Active Directory/LDAP
-2. SAML
-
+1. [Active Directory/LDAP]
+2. [SAML]
+3. [List of Popular SSO' Products]
 #### Security
-1. SSL certificates
-2. PKI Infrastructure
-3. Zero trust security
-4. Password/secret rotation
-5. Security Compliance
-6. Site-to-site VPN
-7. Client-to-site VPN
+1. [SSL certificates]
+2. [PKI Infrastructure]
+3. [Zero trust security]
+4. [Password/secret rotation]
+5. [Security Compliance]
+6. [Site-to-site VPN]
+7. [Client-to-site VPN]
 
 #### Load Balancers
-1. L4 Load Balancers
-2. How L4 LB Works
-3. L7 Load Balancers
-4. Pros Vs. Cons of L4 and L7
-5. Load balancing algorithms
-6. Reverse Proxy
+1. [L4 Load Balancers]
+2. [How L4 LB Works]
+3. [L7 Load Balancers]
+4. [Pros Vs. Cons of L4 and L7]
+5. [Load balancing algorithms]
+6. [Reverse Proxy]
 
 Sure, IT infrastructure is vast! Here's a glimpse of some essential components you'll likely encounter daily:
 
