@@ -4,12 +4,8 @@ Linux is everywhere! From smartphones to supercomputers, it's the foundation of 
 
 ### Why Learn Linux?
 
-- **In-Demand Skill:** Organizations heavily rely on Linux distributions like RHEL, CentOS, Ubuntu, and CoreOS. Mastering these in-demand skills can boost your career.
+- **In-Demand Skill:** Organizations heavily rely on Linux distributions like **RHEL**, **CentOS**, **Ubuntu, and CoreOS. Mastering these in-demand skills can boost your career.
 - **Cloud Domination:** The Linux Foundation reports a staggering 90% of public cloud workloads run on Linux. Understanding Linux empowers you to navigate this dominant cloud environment.
-
-Red Hat also offers valuable insights! This study explores the popularity of various Linux distributions within the public cloud landscape. 
- 
-<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/f5eb43d0-359c-4646-8fa2-5e4f8665aa0f" alt="image" width="500"/> <br><br>
 
 ### Ready to Dive In?
 
