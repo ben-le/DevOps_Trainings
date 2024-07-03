@@ -15,11 +15,12 @@ Optimizing Linux performance involves tuning various system parameters, monitori
 
 
 - #### Process Management: Identify and optimize CPU-intensive processes using tools like pidstat and ps.
-### 3. Memory Optimization
-- #### Swappiness: Adjust the swappiness value to optimize swap usage:
+#### 3. Memory Optimization
+- #### Swappiness:
+- Adjust the swappiness value to optimize swap usage:
 sudo sysctl vm.swappiness=10   # Set swappiness to 10
 
-#### Clear PageCache and dentries: 
+##### Clear PageCache and dentries: 
 - #### Clear cached memory periodically for better memory management.
 sudo sync && echo 3 | sudo tee /proc/sys/vm/drop_caches   # Clear caches
 
