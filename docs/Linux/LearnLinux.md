@@ -12,7 +12,7 @@ Here is another interesting study from Red Hat, which shows the different Linux 
 
 Now you have enough reasons why you should focus on Linux. When it comes to Linux, it’s all terminal; GUI is less preferred in *nix world. Get your hands dirty with the terminals of these systems.
 
-You can start with the following:
+### You can start with the following:
 
 1. Understand the Linux booting process
 2. Understand `systemd`
