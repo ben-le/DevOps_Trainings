@@ -5,7 +5,7 @@ This repository offers extensive training materials aimed at cultivating a thoro
 ## DevOps Engineer Roadmap
 DevOps is not limited to developers or system engineers; it's for anyone passionate about evolving practices and technologies, and who is willing to work in a collaborative environment where automation makes life easier for everyone.
 
-Whether you're a sysadmin, developer, tester, performance engineer, support engineer, or in any other IT role, you can become a DevOps engineer. You are already part of an IT ecosystem responsible for deploying and managing applications in production.
+Whether you're a sysadmin, developer, tester, performance engineer, support engineer, or in any other IT role, you can become a DevOps engineer. You are already part of an IT ecosystem responsible for deploying and managing applications in production. <br><br>
 
 ### Get Started
 
