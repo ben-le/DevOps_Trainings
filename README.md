@@ -22,9 +22,9 @@ It's not just a job title; it's a collaborative way of working that bridges the 
   - **[Clouds (AWS, Azure, and GCP)](docs/CloudandVM/CloudandVM.md)**
   - **[Virtualization (Vagrant and Virtualbox)](docs/CloudandVM/VagrantVirtual-ProsandCons.md)**
 - **Infrastructure Automation**
-  - **[Infrastructure Provisioning:]**
-  - **[Configuration Management:]**
-  - **[Dev Environment:]**
+  - **[Infrastructure Provisioning]**
+  - **[Configuration Management]**
+  - **[Dev Environment]**
   - **[VM Image/Container Management]**
 - **[Learn Infrastructure Automation](docs/Infras_Automation/Infras_Automation.md)**
 - **[Learn Container Orchestration "Kubernetes" and Distributed Systems](docs/Kubernetes/Kubernetes.md)**
