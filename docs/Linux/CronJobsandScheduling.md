@@ -41,7 +41,7 @@ This cron job runs /path/to/script.sh every hour at minute 0.
 
 This cron job runs /path/to/backup.sh every day at midnight.
 
-3. ###### Weekly Maintenance on Sundays:
+3. ##### Weekly Maintenance on Sundays:
 0 0 * * 0 /path/to/maintenance.sh
 
 This cron job runs /path/to/maintenance.sh every Sunday at midnight.
@@ -50,7 +50,7 @@ This cron job runs /path/to/maintenance.sh every Sunday at midnight.
 - **Viewing Crontab:** Use crontab -l to list current cron jobs for the user.
 - **Editing Crontab:** Use crontab -e to edit the crontab file interactively.
 - **Removing Crontab:** Use crontab -r to remove all cron jobs for the user.
-- 
+  
 **Considerations:**
 - **Environment Variables:** Cron jobs run with a minimal environment; define paths and variables explicitly.
 - **Logging:** Redirect output (stdout and stderr) to files for debugging (>/path/to/logfile 2>&1).
