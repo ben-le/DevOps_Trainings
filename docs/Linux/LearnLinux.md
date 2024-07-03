@@ -11,6 +11,7 @@ Here is another interesting study from Red Hat, which shows the different Linux 
 
 <img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/f5eb43d0-359c-4646-8fa2-5e4f8665aa0f" alt="image" width="500"/>
 
+
 Now you have enough reasons why you should focus on Linux. When it comes to Linux, it’s all terminal; GUI is less preferred in *nix world. Get your hands dirty with the terminals of these systems.
 
 You can start with the following:
