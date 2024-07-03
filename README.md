@@ -2,11 +2,10 @@
 This repository offers extensive training materials aimed at cultivating a thorough understanding of DevOps practices, tools, and methodologies. Whether you're new to DevOps or a seasoned professional, this resource is designed to enrich your skills and broaden your knowledge base with practical, hands-on experiences.
 
 
-### What You'll Find Here
+## DevOps Engineer Roadmap
+DevOps is not limited to developers or system engineers; it's for anyone passionate about evolving practices and technologies, and who is willing to work in a collaborative environment where automation makes life easier for everyone.
 
-- **Comprehensive Learning Materials:** Dive into detailed guides, tutorials, and practical exercises.
-- **Beginner to Advanced Content:** Whether you're starting out or looking to refine your expertise, there's something for everyone.
-- **Hands-on Experience:** Gain practical insights and real-world applications of DevOps principles.
+Whether you're a sysadmin, developer, tester, performance engineer, support engineer, or in any other IT role, you can become a DevOps engineer. You are already part of an IT ecosystem responsible for deploying and managing applications in production.
 
 ### Get Started
 
