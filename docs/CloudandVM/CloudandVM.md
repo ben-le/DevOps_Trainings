@@ -8,7 +8,7 @@ Get started with virtualization using tools like VirtualBox and Vagrant. These p
 Once you've grasped virtualization, dive deeper into cloud platforms.  Earning certifications validates your knowledge and demonstrates your expertise to potential employers.  Focus on building a strong understanding - certification is the reward, not the shortcut. Exam dumps offer a temporary fix, not lasting value.
 
 #### Choose Your Cloud Path:
-The cloud landscape is dominated by giants like AWS (link to Statista report on cloud market share).  However, exploring other providers like Microsoft Azure or Google Cloud Platform can broaden your knowledge. The best choice depends on your specific needs and career goals. <br>
+The cloud landscape is dominated by giants like AWS (link to Statista report on cloud market share).  However, exploring other providers like Microsoft Azure or Google Cloud Platform can broaden your knowledge. The best choice depends on your specific needs and career goals. <br><br>
 
 <img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/685f8f56-9476-4887-920f-340093737f9b" width="500"> <br><br>
 
