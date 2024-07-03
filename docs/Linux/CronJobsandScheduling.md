@@ -28,7 +28,7 @@ Cron uses a specific syntax to define when and how often a job should run. The c
 - */n : Execute every n units (e.g., */15 for every 15 minutes).
 - 1,2,5 : Execute at specific values (e.g., 1,2,5 for the 1st, 2nd, and 5th units).
 - 1-5 : Execute within a range of values (e.g., 1-5 for units 1 through 5).
-
+```
 #### Examples of Cron Jobs:
 
 1. ##### Run a Script Every Hour:
