@@ -7,7 +7,6 @@ DevOps is not limited to developers or system engineers; it's for anyone passion
 Whether you're a sysadmin, developer, tester, performance engineer, support engineer, or in any other IT role, you can become a DevOps engineer. You are already part of an IT ecosystem responsible for deploying and managing applications in production. <br><br>
 
 ## Get Started
-
 Explore the resources available here to accelerate your journey into the world of DevOps. Start learning today and empower yourself with the tools and techniques essential for modern software development and operations.
 
 ### Course Overview
