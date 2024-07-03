@@ -18,9 +18,9 @@ It's not just a job title; it's a collaborative way of working that bridges the 
 - **[Learn to Use Generative AI Tools](docs/AI_Tools.md)**
 - **[Linux Fundamentals](docs/Linux/LearnLinux.md)**
 - **Infrastructure Essentials**
-  -- **[Components](docs/Infras_Components/InfrastructureComponentsWork.md)**
-  -- **[Cloud](docs/CloudandVM/CloudandVM.md)**
-  -- **[Virtualization](docs/CloudandVM/CloudandVM.md)**
+  - **[Components](docs/Infras_Components/InfrastructureComponentsWork.md)**
+  - **[Cloud](docs/CloudandVM/CloudandVM.md)**
+  - **[Virtualization](docs/CloudandVM/CloudandVM.md)**
 
   
 - **[Learn How Infrastructure Components Work](docs/Infras_Components/InfrastructureComponentsWork.md)**
