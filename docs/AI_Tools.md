@@ -7,3 +7,4 @@ The statement "Making use of AI tools for DevOps engineers is well put" perfectl
 #### Resources:
 - https://chatgpt.com
 - https:/gemini.google.com
+  
