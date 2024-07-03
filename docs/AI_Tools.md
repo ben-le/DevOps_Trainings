@@ -5,5 +5,5 @@ The tech landscape is constantly evolving, and AI is at the forefront of this ch
 The statement "Making use of AI tools for DevOps engineers is well put" perfectly captures the impact of AI. Automation tools and AI have transformed the DevOps role. Repetitive tasks are streamlined, freeing up valuable time for strategic endeavors with higher impact. To stay ahead of the curve, DevOps professionals must continuously adapt to advancements in AI and machine learning.
 
 #### Resources:
-https://chatgpt.com
-https:/gemini.google.com
+- https://chatgpt.com
+- https:/gemini.google.com
