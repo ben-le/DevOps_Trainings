@@ -30,7 +30,7 @@ In Linux, processes are fundamental units of execution that enable multitasking 
    - IPC allows processes to synchronize their actions, exchange data, and coordinate their execution.
 
 7. **Process Management:**
-   - Linux provides commands and utilities (`ps`, `top`, `kill`, etc.) for managing processes from the command line.
+   - Linux provides commands and utilities (`ps`, `top`, `kill`, `htop`, `nice`, etc.) for managing processes from the command line.
    - Administrators can monitor process activities, prioritize tasks, and troubleshoot issues using these tools.
 
 Understanding how Linux processes work is crucial for system administrators and developers to optimize system performance, troubleshoot problems, and manage resources effectively.
