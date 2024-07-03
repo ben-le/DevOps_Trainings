@@ -4,7 +4,7 @@ We are in an era where we cannot live without Linux/Unix systems. You should get
 
 As per The Linux Foundation case study, 90% of the public cloud workload runs on Linux.
 
-![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/01ed55be-9932-407e-87ba-cc65dec7515c = 250x)
+![image]("https://github.com/ben-le/DevOps_Trainings/assets/34547999/01ed55be-9932-407e-87ba-cc65dec7515c" width="250")
 
 Here is another interesting study from Red Hat, which shows the different Linux distros used in the public cloud.
 
