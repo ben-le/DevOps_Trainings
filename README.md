@@ -17,13 +17,13 @@ It's not just a job title; it's a collaborative way of working that bridges the 
 ### Course Overview
 - **[Leveraging Generative AI for Enhanced DevOps Efficiency](docs/AI_Tools.md)**
 - **[Linux Fundamentals](docs/Linux/LearnLinux.md)**
-- **[Infrastructure Essentials]**
+- **Infrastructure Essentials**
   - **[Components](docs/Infras_Components/InfrastructureComponentsWork.md)**
   - **[Cloud](docs/CloudandVM/CloudandVM.md)**
   - **[Virtualization](docs/CloudandVM/VagrantVirtual-ProsandCons.md)**
-  - **Automation Powerhouse**
-    - **Scripting**
-    - **Infrastructure Automation**
+- **Automation Powerhouse**
+  - **Scripting**
+  - **Infrastructure Automation**
 - **[Learn Infrastructure Automation](docs/Infras_Automation/Infras_Automation.md)**
 - **[Learn Container Orchestration "Kubernetes" and Distributed Systems](docs/Kubernetes/Kubernetes.md)**
 - **[Logging & Monitoring & Observability](docs/LoggingandMonitoring/LoggingMonitoring.md)**
