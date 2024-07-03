@@ -7,10 +7,10 @@ A strong foundation is crucial for any successful organization, and IT infrastru
 - **Effective Communication:** Participating in meetings with network/security teams becomes more productive. You can ask insightful questions, grasp their explanations, and collaborate more effectively.
 - **Proactive Problem-Solving:** Imagine the difference between saying "It's not working, can you fix it?" and "I've done some troubleshooting, and based on my findings, here's what I suspect might be causing the issue. Could you take a look and help us diagnose further?". Understanding infrastructure allows for proactive problem-solving and faster resolution times.
 
-## Here's what you should get familiar with:
+### Here's what you should get familiar with:
 This leads nicely into the list of infrastructure components you should explore for a better understanding.
 
-### Networking
+#### Networking
 1. OSI Model/TCP-IP Model
 2. Network Topologies
 3. CIDR Notations
@@ -25,7 +25,7 @@ This leads nicely into the list of infrastructure components you should explore 
 12. VPN
 13. IPv4 & IPv6 Protocols
 
-### Storage
+#### Storage
 1. SAN
 2. Backups
 3. NFS
@@ -34,18 +34,18 @@ This leads nicely into the list of infrastructure components you should explore 
 6. Databases
 7. Key-Value Stores
 
-### High Availability
+#### High Availability
 1. Clusters
 2. Fail-Over Mechanisms
 3. Disaster Recovery
 4. Vertical scaling
 5. Horizontal scaling
 
-### Single Sign-On
+#### Single Sign-On
 1. Active Directory/LDAP
 2. SAML
 
-### Security
+#### Security
 1. SSL certificates
 2. PKI Infrastructure
 3. Zero trust security
@@ -54,7 +54,7 @@ This leads nicely into the list of infrastructure components you should explore 
 6. Site-to-site VPN
 7. Client-to-site VPN
 
-### Load Balancers
+#### Load Balancers
 1. L4 Load Balancers
 2. How L4 LB Works
 3. L7 Load Balancers
