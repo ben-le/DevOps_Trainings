@@ -1,12 +1,14 @@
-## Learn How Infrastructure Components Work
+## Why Infrastructure Matters in DevOps
 
-The basic building block of any organization is its Infrastructure. It could be on the cloud or on-premise Data Center.
+A strong foundation is crucial for any successful organization, and IT infrastructure is no different.  Whether it's housed in a traditional on-premise data center or leverages the cloud, understanding these core components is essential for anyone working in a DevOps environment.
 
-An overall understanding of Infrastructure components is a must for a person who wants to practice or work in a DevOps environment. For example, when you get into meetings with network/security teams, with a fair amount of infrastructure knowledge you can ask the right questions, understand what they are saying and collaborate better.
+## Benefits of Infrastructure Knowledge:
 
-There is a big difference when you say “It’s not working, can you look into this” and “Hey, I have done my initial troubleshooting, and here are my findings. Can you look into this further and help us understand what’s causing the issue”
+- **Effective Communication:** Participating in meetings with network/security teams becomes more productive. You can ask insightful questions, grasp their explanations, and collaborate more effectively.
+- **Proactive Problem-Solving:** Imagine the difference between saying "It's not working, can you fix it?" and "I've done some troubleshooting, and based on my findings, here's what I suspect might be causing the issue. Could you take a look and help us diagnose further?". Understanding infrastructure allows for proactive problem-solving and faster resolution times.
 
-You should spend some time and have a basic understanding of the following:
+## Here's what you should get familiar with:
+This leads nicely into the list of infrastructure components you should explore for a better understanding.
 
 ### Networking
 1. OSI Model/TCP-IP Model
@@ -54,9 +56,11 @@ You should spend some time and have a basic understanding of the following:
 
 ### Load Balancers
 1. L4 Load Balancers
-2. L7 Load Balancers
-3. Load balancing algorithms
-4. Reverse Proxy
+2. How L4 LB Works
+3. L7 Load Balancers
+4. Pros Vs. Cons of L4 and L7
+5. Load balancing algorithms
+6. Reverse Proxy
 
-There are more things, but I have highlighted the critical components of an IT Infrastructure that you might encounter in your day-to-day job.
+Sure, IT infrastructure is vast! Here's a glimpse of some essential components you'll likely encounter daily:
 
