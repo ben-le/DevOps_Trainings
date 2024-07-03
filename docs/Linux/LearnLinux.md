@@ -14,7 +14,7 @@ Now you have enough reasons why you should focus on Linux. When it comes to Linu
 
 ### You can start with the following:
 
-1. [Understand the Linux booting process](docs/Linux/Booting_Process.md)
+1. [Understand the Linux booting process](Booting_Process.md)
 2. Understand `systemd`
 3. Install and configure web servers (Apache, Nginx, Tomcat, etc.) and learn how web servers work.
 4. Learn how Linux processes work.
