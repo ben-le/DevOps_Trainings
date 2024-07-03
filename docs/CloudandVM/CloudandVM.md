@@ -10,7 +10,8 @@ Once you've grasped virtualization, dive deeper into cloud platforms.  Earning c
 #### Choose Your Cloud Path:
 The cloud landscape is dominated by giants like AWS (link to Statista report on cloud market share).  However, exploring other providers like Microsoft Azure or Google Cloud Platform can broaden your knowledge. The best choice depends on your specific needs and career goals.
 
-<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/685f8f56-9476-4887-920f-340093737f9b" width="500">
+<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/685f8f56-9476-4887-920f-340093737f9b" width="500"> <br><br>
+
 
 
 The cloud computing market is vast, but here are the top 3 most popular cloud computing vendors  as of 2024:
