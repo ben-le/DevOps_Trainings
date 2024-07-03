@@ -48,5 +48,5 @@ Terraform is an open-source tool developed by HashiCorp that allows users to def
 
 - **Destroy Infrastructure:**
   terraform destroy
-
+  ```
   
