@@ -18,8 +18,8 @@ It's not just a job title; it's a collaborative way of working that bridges the 
 - **[Leveraging Generative AI for Enhanced DevOps Efficiency](docs/AI_Tools.md)**
 - **[Linux Fundamentals](docs/Linux/LearnLinux.md)**
 - **Infrastructure Essentials**
-  - **[Components (Networking, Storage, HA, Single Sign-On, Security, and Load Balancers](docs/Infras_Components/InfrastructureComponentsWork.md)**
-  - **[Clouds (AWS, Azure, and GCP](docs/CloudandVM/CloudandVM.md)**
+  - **[Components (Networking, Storage, HA, Single Sign-On, Security, and Load Balancers)](docs/Infras_Components/InfrastructureComponentsWork.md)**
+  - **[Clouds (AWS, Azure, and GCP)](docs/CloudandVM/CloudandVM.md)**
   - **[Virtualization (Vagrant and Virtualbox)](docs/CloudandVM/VagrantVirtual-ProsandCons.md)**
 - **Automation Powerhouse**
   - **Scripting**
