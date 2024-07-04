@@ -41,7 +41,7 @@ It's not just a job title; it's a collaborative way of working that bridges the 
     - **[Kubernetes (Kubeamd, Minikube, MiniShift, Kind)](docs/Infras_Automation/Dev_Env/Kubernetes-Overview.md)**
   - **VM Image/Containter Management**
     - **[HashiCorp Packer (for building VM images)](docs/Infras_Automation/VM-Containers-Management/HashCorp-Packer.md)**
-    - **[Docker (for building and managing containers)(docs/Infras_Automation/VM-Containers-Management/Docker-Enterprise)**
+    - **[Docker (for building and managing containers)](docs/Infras_Automation/VM-Containers-Management/Docker-Enterprise)**
 - **[Learn Infrastructure Automation](docs/Infras_Automation/Infras_Automation.md)**
 - **[Learn Container Orchestration "Kubernetes" and Distributed Systems](docs/Kubernetes/Kubernetes.md)**
 - **[Logging & Monitoring & Observability](docs/LoggingandMonitoring/LoggingMonitoring.md)**
