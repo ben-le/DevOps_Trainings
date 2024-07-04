@@ -43,6 +43,7 @@ Whether you're a System Administrator, Developer, Tester, or IT Specialist, you 
 - **[Learn Security Best Practices (DevSecOps)](docs/DevSecOps/DevSecOps.md)**
 - **[Learn Programming & Scripting](docs/ProgrammingScripting/shell-scripting-for-devops.md)**
 - **[Learn Git, GitOps & Learn to Document](docs/GitandDocument/LearnGit.md)**
+  - **[Git CheatSheet for DevOps](docs/GitandDocument/GitCheatSheet.md)**
 - **[Understand End To End Application Delivery Lifecycle - CI/CD](docs/CICD/CICD.md)**
 
 
