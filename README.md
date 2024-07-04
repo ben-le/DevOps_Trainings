@@ -8,7 +8,6 @@ DevOps isn't just a job title, it's a collaborative mindset that bridges the gap
 Whether you're a System Administrator, Developer, Tester, or IT Specialist, you can leverage your existing skills for a successful DevOps journey. This comprehensive roadmap equips you with the essentials: scripting, automation, infrastructure management, and more. Take your career to the next level, absolutely free!
 
 ### Start your DevOps journey today!
-**Explore our curated resources to propel your DevOps journey!** Start learning today and master the tools and techniques driving modern software development and operations.
 
 ### Course Overview
 - **[Leveraging Generative AI for Enhanced DevOps Efficiency](docs/AI_Tools.md)**
