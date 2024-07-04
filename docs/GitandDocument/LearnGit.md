@@ -11,9 +11,13 @@ While not yet ubiquitous, GitOps is an emerging practice that utilizes Git for i
 #### Document for Success
 Thorough documentation is vital. Every repository should have a clear and concise README file explaining your code. This not only benefits you but also anyone interacting with your work.
 
-#### Resources
+#### Git Resources
 
 - [How to Learn Git for DevOps](https://devopscube.com/git-for-devops/)
 - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/?couponCode=ST16MT70224))
 - [Git Basics Every Developer and Administrator Should Know](https://devopscube.com/git-basics-every-developer-and-administrator-should-know/)
 
+#### Document Resources
+- [Google Developer Documentation Style Guide]( https://developer.android.com/develop)
+- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/docs)
+- [The Turing Way: A Handbook for Reproducible Data Science](https://book.the-turing-way.org/index.html)
