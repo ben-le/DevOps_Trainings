@@ -10,11 +10,11 @@ Once you've grasped Docker fundamentals, dive into Kubernetes, the container orc
 ### Explore the Power of Kubernetes in Action
 Here's an interesting trend report by Datadog showcasing how Kubernetes usage is shaping the industry (link to Datadog report).
 
-<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/bd7b3e9a-2322-4a40-ad03-999f4505893c" width="500">
+<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/bd7b3e9a-2322-4a40-ad03-999f4505893c" width="700">
 
 This graph illustrates a consistent rise in Kubernetes search queries over the past five years.
 
-<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/a2fe075b-058b-4273-9a09-59c63f422f40" width="500">
+<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/a2fe075b-058b-4273-9a09-59c63f422f40" width="700">
 
 
 ### The Rise of Kubernetes and Your Career
