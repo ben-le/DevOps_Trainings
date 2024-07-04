@@ -9,7 +9,7 @@
 It's not just a job title; it's a collaborative way of working that bridges the gap between development, operations, and all IT professionals. Embrace automation and innovation to deliver software faster and more efficiently.
 
 ### Your DevOps Transformation Starts Now:
-**System Administrator, Developer, Tester, or IT Specialist?** Leverage your existing skills! This roadmap equips you with the DevOps essentials: scripting, automation, infrastructure management, and more. Take your IT career to new heights!
+**System Administrator, Developer, Tester, or IT Specialist?** Leverage your existing skills! This roadmap equips you with the DevOps essentials: scripting, automation, infrastructure management, and more. Take your career to new heights!
 
 ### Ready to Launch?
 **Explore our curated resources to propel your DevOps journey!** Start learning today and master the tools and techniques driving modern software development and operations.
