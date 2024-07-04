@@ -42,7 +42,7 @@ It's not just a job title; it's a collaborative way of working that bridges the 
   - **VM Image/Containter Management**
     - **[HashiCorp Packer (for building VM images)](docs/Infras_Automation/VM-Containers-Management/HashCorp-Packer.md)**
     - **[Docker (for building and managing containers)](docs/Infras_Automation/VM-Containers-Management/Docker-Enterprise)**
-- **[Learn Container Orchestration "Kubernetes" and Distributed Systems](docs/Kubernetes/Kubernetes.md)**
+- **[Container Orchestration with Kubernetes and Distributed Systems](docs/Kubernetes/Kubernetes.md)**
 - **[Logging & Monitoring & Observability](docs/LoggingandMonitoring/LoggingMonitoring.md)**
 - **[Learn Security Best Practices (DevSecOps)](docs/DevSecOps/DevSecOps.md)**
 - **[Learn Programming & Scripting](docs/ProgrammingScripting/shell-scripting-for-devops.md)**
