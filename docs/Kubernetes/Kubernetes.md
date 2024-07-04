@@ -12,7 +12,7 @@ Here's an interesting trend report by Datadog showcasing how Kubernetes usage is
 
 <img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/bd7b3e9a-2322-4a40-ad03-999f4505893c" width="700"> <br><br>
 
-This graph illustrates a consistent rise in Kubernetes search queries over the past five years.
+**This graph illustrates a consistent rise in Kubernetes search queries over the past five years.**
 
 <img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/a2fe075b-058b-4273-9a09-59c63f422f40" width="700">
 
