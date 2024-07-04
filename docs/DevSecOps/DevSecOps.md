@@ -1,27 +1,19 @@
-## Learn Security Best Practices (DevSecOps)
+# Master Security: Your Guide to DevSecOps
 
-DevSecOps is an area focused on integrating security practices into each stage of DevOps.
+In today's digital landscape, security is paramount. DevSecOps offers a powerful approach to integrate security practices seamlessly throughout the entire software development lifecycle (SDLC).
 
-### What is DevSecOps?
+## What is DevSecOps?
 
-According to Wikipedia:
+Imagine DevOps with a robust security shield built-in. That's DevSecOps in essence. It emphasizes collaboration between development, security, and operations teams to ensure security is not an afterthought, but a continuous thread woven into every stage of the development process.
 
-> DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach. The traditional centralized security team model must adopt a federated model allowing each delivery team the ability to factor in the correct security controls into their DevOps practices.
+## Shifting Security Left
 
-### Shift-Left Security
+A core principle of DevSecOps is "Shift-Left Security." This means proactively integrating security measures as early as the design and development phases, rather than waiting until deployment. The Cloud Security Alliance puts it perfectly: "Security can be designed in, but not bolted on."
 
-One of the key topics in DevSecOps is the Shift-left security approach. Shift-left security involves adopting security practices during the design and development stages.
+## Securing the Cloud
 
-The Cloud Security Alliance states:
+Cloud environments present unique security challenges. Crypto mining attacks, for example, can exploit poorly managed cloud access secrets. DevSecOps promotes robust secret management practices for both applications and infrastructure components to minimize such risks. Consider exploring "Zero Trust Security" for additional security best practices in the cloud.
 
-> Security can be achieved only when it has been designed in. Applying security measures as an afterthought is a recipe for disaster.
-
-
-
-In cloud environments, crypto mining is one of the common attacks. This often happens due to poorly maintained cloud access secrets, allowing hackers to gain access.
-
-
-In DevOps, secret management for applications and infrastructure components should follow standard security practices. Consider reading about Zero trust security practices.
 
 ![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/716a1226-bcd2-41c5-b86d-67e24107cfcb)
 
