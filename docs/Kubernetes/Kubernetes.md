@@ -1,26 +1,27 @@
-## Learn Container Orchestration and Distributed Systems
+### Master the Building Blocks of Scalable Infrastructure
+In today's world, distributed systems are the foundation for building robust and scalable infrastructure. Understanding these core concepts is crucial because many popular microservices tools, like Kubernetes, are inherently distributed.
 
-Distributed systems are the basic building blocks for modern scalable infrastructure. You need to understand the basic concepts of distributed systems because most tools that you use for microservices are distributed in nature. For example, Kubernetes.
+### Embrace Containers for a Competitive Edge
+Container adoption is on the rise, and even if your current organization doesn't use them yet, having hands-on experience with Docker or Podman will give you a significant advantage. This practical knowledge sets you apart from your peers.
 
-Also, container adoption is increasing day by day. The organization you work for might not be using containers now. However, it is best to have hands-on knowledge of container technology like Docker or Podman. It will give you a competitive edge among your peers.
+### Level Up with Kubernetes Orchestration
+Once you've grasped Docker fundamentals, dive into Kubernetes, the container orchestration powerhouse. Often referred to as the "new-age Linux" for its transformative impact, Kubernetes excels in managing containerized applications built on a microservices architecture.
 
-Once you understand Docker, you can start learning about the container orchestration tool Kubernetes.
+### Explore the Power of Kubernetes in Action
+Here's an interesting trend report by Datadog showcasing how Kubernetes usage is shaping the industry (link to Datadog report).
 
-Kubernetes is the new age Linux.
+<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/bd7b3e9a-2322-4a40-ad03-999f4505893c" width="500">
 
-These platforms are best suited for microservices-based architecture.
+This graph illustrates a consistent rise in Kubernetes search queries over the past five years.
 
-Here is an interesting Kubernetes usage trend by Datadog.
+<img src="https://github.com/ben-le/DevOps_Trainings/assets/34547999/a2fe075b-058b-4273-9a09-59c63f422f40" width="500">
 
-![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/bd7b3e9a-2322-4a40-ad03-999f4505893c)
 
-The following image shows the five-year increasing search trends for Kubernetes.
+### The Rise of Kubernetes and Your Career
+Kubernetes is rapidly becoming a sought-after skill for engineers of all experience levels. With the increasing popularity of containerized applications, many engineers, including fresh graduates, are eager to learn Kubernetes. 2024 is expected to see a surge in Kubernetes certifications, with the CKA, CKAD, and CKS exams being popular options.  Consider your desired career path within the containerized world to choose the most relevant certification for you (link to your CKA, CKAD, and CKS exam guides).
 
-![image](https://github.com/ben-le/DevOps_Trainings/assets/34547999/a2fe075b-058b-4273-9a09-59c63f422f40)
-
-Also, many engineers and even fresh college graduates are showing interest in learning Kubernetes. 2023 will see many engineers getting certified in Kubernetes. You can check out our CKA, CKAD, and CKS exam guides. You can pick the best Kubernetes certification based on the domain you want to work with.
-
-Service mesh is an advanced topic in the container space. If you are a beginner to container toolsets, you can learn this after gaining a good amount of knowledge in container orchestration and microservices-based architecture. There are many service mesh tools from the CNCF foundation. You can take a look at the best service mesh tools for microservices.
+### Service Mesh: Advanced Concepts for Containerized Applications
+If you're new to container orchestration and microservices architecture, service mesh might seem like an advanced topic for now. However, it's a valuable concept to keep in mind for your future learning journey. Once you solidify your foundation in container management, service mesh will naturally come into focus. The Cloud Native Computing Foundation (CNCF) offers a variety of service mesh tools to explore. You can find resources to learn about the best service mesh tools for microservices architectures (link to resources on best service mesh tools).
 
 ### Resources
 
