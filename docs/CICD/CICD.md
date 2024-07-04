@@ -19,9 +19,9 @@ Learn to use any of the following CI/CD tools:
 
 Here is a good pictorial representation of the CI/CD process by BMC:
 
-![CI/CD in DevOps](link-to-image)
+<img src=https://github.com/ben-le/DevOps_Trainings/assets/34547999/4cfa8109-aa76-4cd7-924c-3151cb8f95fb" width="500">
 
-Source: BMC
+
 
 ### Additional Topics
 
@@ -41,5 +41,5 @@ Here is a list of topics related to the application development and release life
 
 ### Resources
 
-- [Continuous Deployment at Lyft](link-to-resource)
+- [Continuous Deployment at Lyft](https://eng.lyft.com/continuous-deployment-at-lyft-9b457314771a))
 
