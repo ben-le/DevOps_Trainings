@@ -1,13 +1,13 @@
-# Mastering Shell Scripting for DevOps Success
+## Mastering Shell Scripting for DevOps Success
 Unlock the power of automation and elevate your DevOps skillset with shell scripting. This guide equips you with the knowledge and resources to learn efficiently.
 
-## Why Shell Scripting?
+### Why Shell Scripting?
 Despite the abundance of automation tools, shell scripting remains a core competency in DevOps. It enhances tools, handles repetitive tasks, and is a valuable skill for interviews.
 
-## Ready to Begin?
+### Ready to Begin?
 Ensure you are comfortable with Linux commands. Utilize free cloud tiers or Vagrant to practice. We'll delve deeper into learning resources and practical applications next.
 
-### Table of Contents
+#### Table of Contents
 - [Shell Scripting for DevOps](#shell-scripting-for-devops)
 - [How to Get Started With Shell Scripting?](#how-to-get-started-with-shell-scripting)
 - [What are the Best Free Shell Scripting Learning Resources?](#what-are-the-best-free-shell-scripting-learning-resources)
@@ -17,7 +17,7 @@ Ensure you are comfortable with Linux commands. Utilize free cloud tiers or Vagr
 - [Shell Scripting DevOps Interview Questions](#shell-scripting-devops-interview-questions)
 - [Shell Scripting FAQs](#shell-scripting-faqs)
 
-### Shell Scripting for DevOps
+#### Shell Scripting for DevOps
 
 The first question you might have is, how important is shell scripting for a DevOps engineer? I have got this question from freshers as well as experienced IT folks.
 
@@ -33,7 +33,7 @@ Also, shell script comes in handy for repeatable development tasks. For example,
 
 Most importantly, hands-on scripting and programming are becoming mandatory in preliminary interview rounds in DevOps interviews. So it is another crucial reason why you should learn shell scripting.
 
-### How to Get Started With Shell Scripting?
+#### How to Get Started With Shell Scripting?
 
 The prerequisite to getting started with shell scripting is hands-on experience with Linux. Therefore, before getting started with shell scripting, you should be comfortable working with Linux commands.
 
@@ -43,7 +43,7 @@ If you think you are comfortable with Linux, you can get started with Shell scri
 
 Create a GitHub repo, create folders for each concept you learn, and commit all your work scripts. It doesn’t matter if the script is available online. Have your own documentation. You can add references and credit websites/blog links in the README section. Once your learning is over, you can share it on LinkedIn. Trust me; it will help you retain the knowledge and will help others as well.
 
-### What are the Best Free Shell Scripting Learning Resources?
+#### What are the Best Free Shell Scripting Learning Resources?
 
 You don’t need to pay for any expensive courses to learn Linux shell scripting. There is too much marketing around courses that promise to make you a DevOps shell scripting ninja. However, I don’t have anything against courses; go for it if you feel comfortable learning via a paid course. I will add those resources as well.
 
@@ -70,7 +70,7 @@ But if you say, hey, I am a person who likes guided courses, here are some of my
 - [Operationalizing Bash and Z Shell Scripts – Pluralsight](link-to-course)
 - [Linux Shell Scripting: A Project-Based Approach to Learning](link-to-course)
 
-### Real-world Shell Scripting Use Cases
+#### Real-world Shell Scripting Use Cases
 
 Assuming you have learned all the shell scripting concepts and probably written and executed shell scripts for learning purposes. The next question anyone would have is, how to learn real-world shell scripting use cases?
 
@@ -86,7 +86,7 @@ Try to understand the shell script and its functionality. In this process, you w
 
 It is not just limited to Docker repositories, you can find scripts in many open-source community repositories.
 
-### Shell Scripting Real-Time Scenarios
+#### Shell Scripting Real-Time Scenarios
 
 It is always better to learn with some real-time scenarios in terms of DevOps engineer interviews. So I have come up with some real-world scenarios you can try out. I will keep updating this list.
 
@@ -116,7 +116,7 @@ Ensure you include the following concepts in the shell scripts you are writing:
 - Exit status
 - Command line arguments
 
-### Shell Scripting Languages
+#### Shell Scripting Languages
 
 First of all, there are no specific shell scripting languages. When it comes to shell scripting, it refers to `sh`, `bash`, `csh`, `tcsh`. Here we are primarily talking about bash shell scripting. Bash is an interpreted scripting language for Unix-based systems.
 
@@ -131,7 +131,7 @@ But scripting languages, in general, mean multiple languages. The following are 
 - Perl
 - Groovy
 
-### Shell Scripting DevOps Interview Questions
+#### Shell Scripting DevOps Interview Questions
 
 Shell scripting DevOps interview questions differ from company to company.
 
