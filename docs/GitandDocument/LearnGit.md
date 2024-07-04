@@ -13,7 +13,7 @@ Thorough documentation is vital. Every repository should have a clear and concis
 
 #### Resources
 
-- [How to Learn Git for DevOps](link-to-resource)
-- [Git Complete: The definitive, step-by-step guide to Git](link-to-resource)
-- [Git Basics Every Developer and Administrator Should Know](link-to-resource)
+- [How to Learn Git for DevOps](https://devopscube.com/git-for-devops/)
+- [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/?couponCode=ST16MT70224))
+- [Git Basics Every Developer and Administrator Should Know](https://devopscube.com/git-basics-every-developer-and-administrator-should-know/)
 
