@@ -1,4 +1,4 @@
-## DevOps Mastery: Your Path to DevOps Expertise - Absolutely Free!
+## DevOps Mastery: Your Path to DevOps Expertise 
 Welcome to your one-stop shop for mastering DevOps, regardless of your background. Want to launch a new career in DevOps? We've got you covered. Already a seasoned professional? Sharpen your skills and stay ahead of the curve with our cutting-edge resources.
 
 ### DevOps for Everyone: Empower Your Career
