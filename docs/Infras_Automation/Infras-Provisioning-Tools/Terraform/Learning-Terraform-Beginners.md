@@ -111,7 +111,7 @@ Before diving into Terraform, it's essential to understand the concept of IaC, w
   - Deploy a Kubernetes cluster using Terraform and a provider like AWS EKS or Google GKE.
 
 ### Resources
-- #### [Official Documentation:Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
+- #### [Official Documentation:]Terraform Documentation(https://developer.hashicorp.com/terraform/docs)
 - #### Terraform Registry: Terraform Module Registry
 - #### Tutorials: HashiCorp Learn
 - #### Community: Terraform GitHub, Terraform Discuss
