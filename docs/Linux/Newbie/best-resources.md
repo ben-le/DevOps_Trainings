@@ -1,6 +1,6 @@
 ### These e-books and the weblink below for Linux beginners are designed to help you build a solid foundation for your Linux skills
 
-- **[BEGINNER’S GUIDE FOR LINUX – Start Learning Linux in Minutes](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)**
+**[BEGINNER’S GUIDE FOR LINUX – Start Learning Linux in Minutes](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)**
 
 
 #### [The Ultimate Linux Newbie Guide](The-Ultimate-Linux-Newbie-Guide-eBook-Edition-January-2017.pdf) 
