@@ -1,4 +1,7 @@
-### These e-books for Linux beginners are designed to help you build a solid foundation for your Linux skills
+### These e-books and the weblink below for Linux beginners are designed to help you build a solid foundation for your Linux skills
+
+- **[BEGINNER’S GUIDE FOR LINUX – Start Learning Linux in Minutes](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)**
+
 
 #### [The Ultimate Linux Newbie Guide](The-Ultimate-Linux-Newbie-Guide-eBook-Edition-January-2017.pdf) 
 - This guide covers everything a beginner needs to know: from the history of UNIX and Linux, choosing a Linux distribution, to basic Linux commands, sysadmin commands, and monitoring and analyzing metrics such as CPU, RAM, and running processes.
