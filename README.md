@@ -12,7 +12,7 @@ Whether you're a System Administrator, Developer, Tester, or IT Specialist, you 
 ### Course Overview
 - **[Leveraging Generative AI for Enhanced DevOps Efficiency](docs/AI_Tools.md)**
 - **[BEGINNER’S GUIDE FOR LINUX – Start Learning Linux in Minutes](docs/Linux/Newbie/best-resources.md)**
-- **
+
 - **[Linux Fundamentals (Boooting, Kernel, Systemd, Manage Users&Groups, Package Management, etc.)](docs/Linux/LearnLinux.md)**
 - **Infrastructure Essentials**
   - **[Components (Networking, Storage, HA, Single Sign-On, Security, and Load Balancers)](docs/Infras_Components/InfrastructureComponentsWork.md)**
