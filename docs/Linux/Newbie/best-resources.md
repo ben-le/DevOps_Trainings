@@ -18,3 +18,7 @@ It begins with the history of UNIX and Linux, then explores the differences betw
 #### [Bash Reference Manual](bash-reference-manual.pdf)
 - This ebook is an excellent resource for beginners looking to get started with bash scripting and Linux.
 
+#### [Linux Interview Questions](https://www.linuxcareers.com/resources/blog/2023/02/linux-interview-questions-top-101-questions-and-answers/)
+- Linux Interview Questions: Top 101 Questions and Answers
+
+
