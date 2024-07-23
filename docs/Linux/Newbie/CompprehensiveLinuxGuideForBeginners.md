@@ -1,7 +1,7 @@
 ### Introduction to Liinux
 
 #### What is Linux?
-Linux is an open-source, Unix-like operating system kernel. It is widely used in servers, desktops, and embedded systems due to its stability, security, and flexibility.
+Linux is an open-source, Unix-like operating system kernel. It is widely used in servers, desktops, and embedded systems due to its stability, security, and flexibility. <br><br>
 
 #### Brief history of Linux:
 1. Origins: Linux was created by Linus Torvalds in 1991 while he was a student at the University of Helsinki in Finland. It was inspired by the MINIX operating system.
@@ -20,7 +20,7 @@ Linux is an open-source, Unix-like operating system kernel. It is widely used in
 
 8. Modern Era: Today, Linux is a dominant force in the server market, powers the majority of smartphones via Android, and is used in numerous embedded systems and supercomputers.
 
-9. Community and Development: Linux continues to be developed collaboratively by a global community of developers, with the Linux Foundation supporting its growth and innovation.
+9. Community and Development: Linux continues to be developed collaboratively by a global community of developers, with the Linux Foundation supporting its growth and innovation. <br><br>
 
 
 #### What is open-source?
@@ -32,7 +32,7 @@ Linux is an open-source, Unix-like operating system kernel. It is widely used in
 
 4. Key open-source licenses? GPL, MIT, Apache, and BSD.
 
-5. How to contribute to open-source? Fork the project, make changes, and submit a pull request.
+5. How to contribute to open-source? Fork the project, make changes, and submit a pull request. <br><br>
 
 
 #### Advantages of Linux over other operating systems:
@@ -54,7 +54,7 @@ Linux is an open-source, Unix-like operating system kernel. It is widely used in
 
 9. Privacy: No telemetry and minimal data collection.
 
-10. Development: Preferred by developers for scripting and development tools.
+10. Development: Preferred by developers for scripting and development tools. <br><br>
 
 
 #### Popular Linux Distributions:
