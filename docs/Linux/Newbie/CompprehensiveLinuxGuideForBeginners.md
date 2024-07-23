@@ -1,4 +1,4 @@
-### Introduction to Liinux
+### Introduction to Linux
 
 #### What is Linux?
 Linux is an open-source, Unix-like operating system kernel. It is widely used in servers, desktops, and embedded systems due to its stability, security, and flexibility. <br><br>
