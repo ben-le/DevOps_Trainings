@@ -1,4 +1,4 @@
-### These e-books and the weblink below are designed to help Linux beginners build a solid foundation for their Linux skills.
+### These e-books and accompanying links provide a solid foundation in Linux for beginners.
 
 #### [BEGINNER’S GUIDE FOR LINUX – Start Learning Linux in Minutes](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 - This course module is specifically designed and compiled for beginners who want to embark on their Linux learning journey and excel in today's IT organizations.
