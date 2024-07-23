@@ -59,23 +59,23 @@ Linux is an open-source, Unix-like operating system kernel. It is widely used in
 
 #### Popular Linux Distributions:
 
-Desktop-Oriented
-Ubuntu: User-friendly, large community.
-Linux Mint: Easy to use, visually appealing.
-Pop!_OS: Gaming-focused, good performance.
-Fedora: Cutting-edge, innovative.
-Manjaro: Arch-based, user-friendly.
+- **Desktop-Oriented**
+  - Ubuntu: User-friendly, large community.
+  - Linux Mint: Easy to use, visually appealing.
+  - Pop!_OS: Gaming-focused, good performance.
+  - Fedora: Cutting-edge, innovative.
+  - Manjaro: Arch-based, user-friendly.
 
-Server-Oriented
-Ubuntu Server: Versatile, popular.
-CentOS Stream: Stable, enterprise-ready.
-Debian: Stable, secure.
-RHEL: Enterprise-grade, robust.
+- **Server-Oriented**
+  - Ubuntu Server: Versatile, popular.
+  - CentOS Stream: Stable, enterprise-ready.
+  - Debian: Stable, secure.
+  - RHEL: Enterprise-grade, robust.
 
-Other Notable
-Arch Linux: Highly customizable, for advanced users.
-Kali Linux: Penetration testing, security.
-OpenSUSE: Community-driven, stable.
+- **Other Notable**
+  - Arch Linux: Highly customizable, for advanced users.
+  - Kali Linux: Penetration testing, security.
+  - OpenSUSE: Community-driven, stable.
 
 
 
