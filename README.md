@@ -39,6 +39,7 @@ Whether you're a System Administrator, Developer, Tester, or IT Specialist, you 
     - **[HashiCorp Packer (for building VM images)](docs/Infras_Automation/VM-Containers-Management/HashCorp-Packer.md)**
     - **[Docker (for building and managing containers)](docs/Infras_Automation/VM-Containers-Management/Docker-Enterprise)**
 - **[Container Orchestration with Kubernetes and Distributed Systems](docs/Kubernetes/Kubernetes.md)**
+    - **Kubernetes**
 - **[Logging & Monitoring & Observability](docs/LoggingandMonitoring/LoggingMonitoring.md)**
   - **[Deployment Prometheus, Grafana, AlertManager]**
 - **[Learn Security Best Practices (DevSecOps)](docs/DevSecOps/DevSecOps.md)**
